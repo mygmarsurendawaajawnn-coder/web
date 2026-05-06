@@ -1,4 +1,4 @@
-# 🌐 Профайл Вэбсайт — Firebase + PHP
+<!-- # 🌐 Профайл Вэбсайт — Firebase + PHP
 
 ## 📁 Файлын бүтэц
 
@@ -112,4 +112,4 @@ Firebase Console → Firestore → collection сонгох → document заса
 | `experience` | Туршлага карт бүр |
 | `skills`    | Ур чадвар + хувь |
 | `education` | Боловсрол |
-| `messages`  | Ирсэн мессежүүд (автомат) |
+| `messages`  | Ирсэн мессежүүд (автомат) | -->
